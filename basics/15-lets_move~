@@ -1,2 +1,0 @@
-#!/bin/bash
-mv /basics/*[A-Z]* /u
