@@ -1,2 +1,2 @@
 #!/bin/bash
-fmt | pr /etc/passwd
+sort /etc/passwd
